@@ -106,11 +106,11 @@ function App() {
         <p>Date: 10/12/2023</p>
         <p>Time: 11.41am</p>
         <div>
-          <LocationButton href="https://maps.app.goo.gl/pRoZq7dzkcPGcjTd8">
-            Location 1
-          </LocationButton>
           <LocationButton href="https://maps.app.goo.gl/4sZt7bekQccGsdD49">
-            Location 2
+            Take me to Wedding hall
+          </LocationButton>
+          <LocationButton href="https://maps.app.goo.gl/pRoZq7dzkcPGcjTd8">
+            Take me Reception location
           </LocationButton>
         </div>
         <ControlButton onClick={toggleVideo}>
